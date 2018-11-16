@@ -1,0 +1,6 @@
+framework module Pods_BikerSimulator {
+  umbrella header "Pods-BikerSimulator-umbrella.h"
+
+  export *
+  module * { export * }
+}
